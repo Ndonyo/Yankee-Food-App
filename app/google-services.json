@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "264048537624",
+    "firebase_url": "https://yankee-food.firebaseio.com",
+    "project_id": "yankee-food",
+    "storage_bucket": "yankee-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264048537624:android:bfbcb7d864a018ce",
+        "android_client_info": {
+          "package_name": "com.example.ndony.yankeefood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264048537624-a0fup8d5jncrmsrsi6nmmrfnpqr60e6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ndony.yankeefood",
+            "certificate_hash": "ac6a684d625557ba71bd45341d28f3f8d3466ad2"
+          }
+        },
+        {
+          "client_id": "264048537624-87laebcueard1nds6t9bl58ntffr5pcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDT48zLwk1pk0kHBNeeKzlz4amTvBIi3o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264048537624-87laebcueard1nds6t9bl58ntffr5pcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
